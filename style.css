@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    background-color:black;
+}
+p{
+    font-size: 30px;
+    font-weight: normal;
+    color: rgb(156, 19, 42);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(172, 176, 177);
+    
+
+
+}
+h1{
+    background-color:bisque;
+    color: rgb(87, 84, 80);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#first{
+    margin: 40px;
+    margin-left: 26%;
+    margin-right: 25%;
+    width: 100%px;
+    border: 8px solid rgb(109, 93, 93);
+}
+h4{
+    color: whitesmoke;
+    text-align: right;
+    text-decoration: underline;
+}
