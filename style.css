@@ -19,10 +19,11 @@ h1{
 }
 #first{
     margin: 40px;
-    margin-left: 26%;
-    margin-right: 25%;
+    margin-left: 27%;
+    margin-right: 23%;
     width: 100;
-    border: 8px solid rgb(109, 93, 93);
+    padding: 0
+    border: 10px solid rgb(109, 93, 93);
 }
 h4{
     color: whitesmoke;
